@@ -32,7 +32,7 @@ setup(
     install_requires=[
         "keyboard>=0.13.5",
         "pynput>=1.7.6",
-        "ait>=1.0.0",
+        "ait>=0.0.1",
     ],
     entry_points={
         "console_scripts": [

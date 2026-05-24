@@ -2,7 +2,6 @@
 Threaded class-based clicker
 """
 
-import sys
 import keyboard
 import threading
 from time import sleep
@@ -368,4 +367,3 @@ class Clicker_Main:
 
 # Package exports
 __all__ = ["Clicker_Main", "click", "smooth_mouse_move"]
-
