@@ -23,7 +23,7 @@ pip install auto-clicker
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/auto-clicker.git
+git clone https://github.com/RyGuyCMT/auto-clicker.git
 cd auto-clicker
 pip install -e .
 ```

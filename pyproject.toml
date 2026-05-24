@@ -9,7 +9,7 @@ description = "A threaded, class-based auto clicker utility for automation tasks
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Ryan"}
+    {name = "Ryan Cigich", email = "junkmail654@gmail.com"}
 ]
 requires-python = ">=3.8"
 classifiers = [
@@ -31,10 +31,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/auto-clicker"
-Documentation = "https://github.com/yourusername/auto-clicker/wiki"
-Repository = "https://github.com/yourusername/auto-clicker.git"
-Issues = "https://github.com/yourusername/auto-clicker/issues"
+Homepage = "https://github.com/RyGuyCMT/auto-clicker"
+Documentation = "https://github.com/RyGuyCMT/auto-clicker/wiki"
+Repository = "https://github.com/RyGuyCMT/auto-clicker.git"
+Issues = "https://github.com/RyGuyCMT/auto-clicker/issues"
 
 [project.scripts]
 auto-clicker = "auto_clicker.__main__:main"
